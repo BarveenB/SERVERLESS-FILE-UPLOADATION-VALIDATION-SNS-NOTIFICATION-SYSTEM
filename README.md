@@ -73,7 +73,7 @@ The solution is **fully serverless, scalable, secure, and cost-efficient**, requ
 Add:
 - **Key:** SNS_TOPIC_ARN  
 - **Value:** `<your SNS topic ARN>`
-Click **Save**
+- Click **Save**
 
 ![Serverless system](images/create-environment-variable.png)
 
