@@ -1,4 +1,4 @@
-#  Serverless Image File Validation and Notification System 
+#  SERVERLESS IMAGE FILE VALIDATION AND NOTIFICATION SYSTEM 
 
 This project implements a **serverless, event-driven architecture** on AWS to automatically validate image uploads. Only **JPG and PNG** image files are allowed. Any other file type is **detected and deleted automatically**, with logs captured for monitoring and debugging.  The system also sends **real-time notifications using Amazon SNS** to inform users about successful uploads or invalid file deletions.
 The solution is **fully serverless, scalable, secure, and cost-efficient**, requiring **zero server management**.
